@@ -131,7 +131,7 @@ main {
 
 @media only screen and (min-width: 768px) {
   main {
-    padding: 15% 0;
+    padding: 200px 0;
   }
   .card {
     display: flex;
